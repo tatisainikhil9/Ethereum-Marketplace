@@ -125,29 +125,6 @@ class App extends Component {
     
     return (
       <div>
-          
-        <div className="night">
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-          <div className="shooting_star"></div>
-        </div>
         <Navbar account={this.state.account} />
         <div className="container mt-5">
           <div className="row">

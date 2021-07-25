@@ -123,7 +123,29 @@ class Main extends Component {
         <p>&nbsp;</p>
         <h1>Your Products</h1>
         {yours.length !== 0 ? (
-          <div>
+          <div>      
+        <div className="night">
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+          <div className="shooting_star"></div>
+        </div>
             <table className="table">
               <thead>
                 <tr>
@@ -131,7 +153,6 @@ class Main extends Component {
                   <th scope="col">Name</th>
                   <th scope="col">Price</th>
                   <th scope="col">Sell</th>
-                  <th scope="col"></th>
                 </tr>
               </thead>
               <tbody id="productList">
